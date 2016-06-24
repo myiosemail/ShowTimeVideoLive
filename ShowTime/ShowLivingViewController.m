@@ -7,7 +7,7 @@
 //
 
 #import "ShowLivingViewController.h"
-#import <IJKMediaFramework/IJKMediaFramework.h>//需要你自己下载IJKMediaFramework.framework进行合并http://www.jianshu.com/p/1f06b27b3ac0 或者联系我QQ 906119846发给你我合并好的framework
+#import <IJKMediaFramework/IJKMediaFramework.h>//此处报错请看目录下面的README.md文件
 #import "HttpRequestTool.h"
 #import "ListModel.h"
 @interface ShowLivingViewController ()
